@@ -14,7 +14,7 @@ Source pour [mkdocs-material](https://squidfunk.github.io/mkdocs-material/)
 
 ## Une formule :
 
-$$ax^2+bx+c=0$$
+$ax^2+bx+c=0$
 
 ## Une image :
 ![illustration mkdocs-material](https://squidfunk.github.io/mkdocs-material/assets/images/illustration.png)
