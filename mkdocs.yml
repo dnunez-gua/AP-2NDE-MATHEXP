@@ -1,15 +1,15 @@
 # Fichier de configuration du site à personnaliser
 
 # Informations du site 
-site_name: Base MkDocs Material
-site_description: Exemple de site de base pour MkDocs avec le thème Material à personaliser
-site_author: "Eric MADEC" 
-copyright: Document partagé par <a href="https://github.com/ericECmorlaix" target="_blank">Eric MADEC</a> &copy; 2021 sous licence <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr" target="_blank">CC BY-NC-SA 4.0</a>
+site_name: AP Maths Expertes 2nde
+site_description: Support de l'AP 
+site_author: "Delphine NUNEZ" 
+copyright: Document partagé par <a href="https://github.com/ericECmorlaix" target="_blank">Delphine NUNEZ </a> &copy; 2021 sous licence <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr" target="_blank">CC BY-NC-SA 4.0</a>
 site_url: https://ericecmorlaix.github.io/base_mkdocs_material/ #  modifier au format https://votrePseudoGitHub.github.io/votreDepot/
 
 # Dépot du projet 
 repo_name: 'base_mkdocs_material' 
-repo_url: https://github.com/ericECmorlaix/base_mkdocs_material # Ajoute l'icone et le lien vers le dépot GitHub en haut à droite
+repo_url: https://dnunez-gua.github.io/AP-2NDE-MATHEXP/ # Ajoute l'icone et le lien vers le dépot GitHub en haut à droite
 edit_uri: tree/main/docs/
 
 
@@ -19,7 +19,9 @@ docs_dir: docs
 # Menu de navigation
 nav: 
     - La page d'accueil : index.md
-    - Un notebook jupyter : Notebook.ipynb
+    - Arithmétique : arithmetique.md
+    - Bases numériques : bases.md
+    
 
 
     # Référencer vos autres pages ci-dessus...
@@ -102,10 +104,10 @@ plugins:
 extra:
   social: # A personaliser...
     - icon: fontawesome/solid/paper-plane
-      link: mailto:eric.madec@ecmorlaix.fr
+      link: mailto:delphine.nunez@ecmorlaix.fr
       name: Pour toute question, suggestion ou commentaire, écrire à l'auteur
     - icon: fontawesome/brands/github
-      link: https://github.com/ericECmorlaix/base_mkdocs_material
+      link: https://dnunez-gua.github.io/AP-2NDE-MATHEXP/
       name: dépôt github
     - icon: fontawesome/solid/university
       link: https://www.ecmorlaix.fr/nos-etablissements/lycee-notre-dame-du-mur/
