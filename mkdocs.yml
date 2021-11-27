@@ -20,7 +20,7 @@ docs_dir: docs
 nav: 
     - La page d'accueil : index.md
     - Arithmétique : arithmetique.md
-    - Bases numériques : bases.md
+    
     
 
 
