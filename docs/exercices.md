@@ -26,10 +26,10 @@ La numérotation des véhicules se fait de manière chronologique et au ni-veau 
  
 Dans cet exercice les lettres utilisées dans la numérotation des véhicules sont les26 lettres de l’alphabet.
 
-1) Combien de véhicules devront être immatriculés pour atteindre lenuméro AA-999-AZ ?
-2) Montrer qu’il faut immatriculer 28 982 véhicules pour atteindre le numéro AA-011-BD.
-3) Montrer que le nombre de véhicules immatriculés avant d’arriver au numéro AB-001-AA est de 675 324.
-4) Au bout de combien d’années pourrait être épuisé ce système de numérotation si 7 millions de véhicules sont immatriculés chaque année ?
+1.Combien de véhicules devront être immatriculés pour atteindre lenuméro AA-999-AZ ?
+2. Montrer qu’il faut immatriculer 28 982 véhicules pour atteindre le numéro AA-011-BD.
+3. Montrer que le nombre de véhicules immatriculés avant d’arriver au numéro AB-001-AA est de 675 324.
+4. Au bout de combien d’années pourrait être épuisé ce système de numérotation si 7 millions de véhicules sont immatriculés chaque année ?
 
 
 ## Exercice 4
@@ -39,7 +39,10 @@ Trouver l’écriture chiffrée en base deux de 13, 17, 22.
 ## Exercice 5
 
 Écrire dans la base donnée les nombres suivants :
-1) En base 2 : écrire les dix premiers nombre, 44, 100, 2001,
-2) En base 5 : écrire les 16 premiers nombres, 25, 57, 128, 500,1728.
-3) En base 3 : 243, 1000.
+1. En base 2 : écrire les dix premiers nombre, 44, 100, 2001,
+2. En base 5 : écrire les 16 premiers nombres, 25, 57, 128, 500,1728.
+3. En base 3 : 243, 1000.
 
+## Exercice 6 
+
+Ecrire un algorithme permettant d'écrire un nombre de base 2 en base 10. 
