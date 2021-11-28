@@ -52,3 +52,12 @@ Par exemple : le système maya.
 ![maya2](./images/44E9D550-DB70-4FE6-AFB4-AE26DC389CB7.jpeg "numeration maya2")
 
 
+## Numération base 10
+
+- On utilise 10 symboles 0,1,2,3,4,5,6,7,8,9 qui ne représente pas la même valeur suivant la postition dans le nombre. 
+- Le nombre $$abcd$$ est écrit par groupement de  : $$a\times 10^3 +b\times 10^2 +c\times 10^1 +d\times 10^0$$
+
+## Numération en base 2
+
+- Deux symboles suffisent pour écrire tous les nombres : le 0 et le 1
+- le nombre $$\bar{abcd}$$ se décompose de la manière suivante : 
