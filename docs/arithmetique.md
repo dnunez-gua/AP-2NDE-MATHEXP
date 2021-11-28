@@ -3,9 +3,9 @@
 On appelle numération tout système organisé d'écriture ou d'énonciation des nombres.
 
 Il existe 3 systèmes de numération :
-* La numération par addition
-* La numération hybride 
-* La numération de position.
+- La numération par addition
+- La numération hybride 
+- La numération de position.
 
 # La numération par addition
 
