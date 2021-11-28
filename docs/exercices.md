@@ -8,7 +8,7 @@ On a utilisé 6 869 caractères d’imprimerie (chiffres) pour numéroter les pa
 
 ## Exercice 3
 
-Au cours de l’année 2009, de nouvelles plaques d’immatriculation ont été misesen circulation.
+Au cours de l’année 2009, de nouvelles plaques d’immatriculation ont été mises en circulation.
 Chaque véhicule immatriculé possède désormais un numéro « à vie ».
 Ce numéro est constitué de sept caractères, répartis en trois blocs :
 
@@ -16,7 +16,7 @@ Ce numéro est constitué de sept caractères, répartis en trois blocs :
 - 2ème bloc : trois chiffres ;
 - 3ème bloc : deux lettres.
  
-La numérotation des véhicules se fait de manière chronologique et au ni-veau national (de AA-001-AA à ZZ-999-ZZ), les numéros se succédant de la manière suivante :
+La numérotation des véhicules se fait de manière chronologique et au niveau national (de AA-001-AA à ZZ-999-ZZ), les numéros se succédant de la manière suivante :
 
 -  de AA-001-AA à AA-999-AA ;
 - puis de AA-001-AB à AA-999-AB et ainsi de suite jusqu’à AA-999-AZ ;
