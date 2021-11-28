@@ -61,3 +61,9 @@ Par exemple : le système maya.
 
 - Deux symboles suffisent pour écrire tous les nombres : le 0 et le 1
 - le nombre $\overight{abcd}$ se décompose de la manière suivante : $a\times 2^3+b\times 2^2+c\times 2^1+d\times 2^0$
+
+
+## Autres numérations
+
+
+Video('https://ericecmorlaix.github.io/img/CalculShadok.mp4')
