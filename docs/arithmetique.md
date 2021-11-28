@@ -55,9 +55,9 @@ Par exemple : le système maya.
 ## Numération base 10
 
 - On utilise 10 symboles 0,1,2,3,4,5,6,7,8,9 qui ne représente pas la même valeur suivant la postition dans le nombre. 
-- Le nombre $$abcd$$ est écrit par groupement de  : $$a\times 10^3 +b\times 10^2 +c\times 10^1 +d\times 10^0$$
+- Le nombre $$abcd$$ est écrit par groupement de  : $a\times 10^3 +b\times 10^2 +c\times 10^1 +d\times 10^0$
 
 ## Numération en base 2
 
 - Deux symboles suffisent pour écrire tous les nombres : le 0 et le 1
-- le nombre $$\overight{abcd}$$ se décompose de la manière suivante : $$a\times 2^3+b\times 2^2+c\times 2^1+d\times 2^0$$
+- le nombre $\overight{abcd}$ se décompose de la manière suivante : $a\times 2^3+b\times 2^2+c\times 2^1+d\times 2^0$
