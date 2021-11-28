@@ -28,7 +28,7 @@ Par exemple : le système de numération romain.
 - Certaines de ces quantités peuvent être des quantités négatives, selon leur position, il faut ajouter ou retrancher les quantités représentées par différents symboles. 
 
 
-![romain2](./images/18F07997-69E8-478D-A615-007FFE031449.jpeg "calculs romains")
+![romain2](./images/18F07997-69E8-478D-A615-007FFE031449.jpeg "calculs romains"){target="\blank"}
 
 ### Exercice
 
