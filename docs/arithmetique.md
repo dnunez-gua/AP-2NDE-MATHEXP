@@ -55,7 +55,7 @@ Par exemple : le système maya.
 ## Numération base 10
 
 - On utilise 10 symboles 0,1,2,3,4,5,6,7,8,9 qui ne représente pas la même valeur suivant la postition dans le nombre. 
-- Le nombre $$abcd$$ est écrit par groupement de  : $a\times 10^3 +b\times 10^2 +c\times 10^1 +d\times 10^0$
+- Le nombre $abcd$ est écrit par groupement de  : $a\times 10^3 +b\times 10^2 +c\times 10^1 +d\times 10^0$
 
 ## Numération en base 2
 
