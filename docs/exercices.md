@@ -26,10 +26,10 @@ La numérotation des véhicules se fait de manière chronologique et au ni-veau 
  
 Dans cet exercice les lettres utilisées dans la numérotation des véhicules sont les26 lettres de l’alphabet.
 
-1) Combien de véhicules devront être immatriculés pour atteindre lenuméroAA-999-AZ ?
+1) Combien de véhicules devront être immatriculés pour atteindre lenuméro AA-999-AZ ?
 2) Montrer qu’il faut immatriculer 28 982 véhicules pour atteindre le numéro AA-011-BD.
-3)  Montrer que le nombre de véhicules immatriculés avant d’arriver au numéroAB-001-AA est de 675 324.
-4)   Au bout de combien d’années pourrait être épuisé ce système de numérotation si 7 millions de véhicules sont immatriculés chaque année ?
+3) Montrer que le nombre de véhicules immatriculés avant d’arriver au numéro AB-001-AA est de 675 324.
+4) Au bout de combien d’années pourrait être épuisé ce système de numérotation si 7 millions de véhicules sont immatriculés chaque année ?
 
 
 ## Exercice 4
