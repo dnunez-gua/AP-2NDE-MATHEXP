@@ -39,6 +39,7 @@ Trouver l’écriture chiffrée en base deux de 13, 17, 22.
 ## Exercice 5
 
 Écrire dans la base donnée les nombres suivants :
+
 1. En base 2 : écrire les dix premiers nombre, 44, 100, 2001,
 2. En base 5 : écrire les 16 premiers nombres, 25, 57, 128, 500,1728.
 3. En base 3 : 243, 1000.
