@@ -4,7 +4,7 @@ Trouver le nombre de deux chiffres tel que la somme de ses deux chiffres soit é
 
 ## Exercice 2
 
-On a utilisé 6 869 caractères d’imprimerie (chiffres) pour numéroter les pagesd’un dictionnaire. Combien de pages ce dictionnaire contient-il?
+On a utilisé 6 869 caractères d’imprimerie (chiffres) pour numéroter les pages d’un dictionnaire. Combien de pages ce dictionnaire contient-il?
 
 ## Exercice 3
 
