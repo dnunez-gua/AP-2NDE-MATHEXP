@@ -65,4 +65,4 @@ Par exemple : le système maya.
 
 ## Autres numérations
 
-[numeration shadoks](https://youtu.be/lP9PaDs2xgQ "video shadoks")
+[numeration shadoks](https://youtu.be/lP9PaDs2xgQ "video shadoks"){target="_blank"}
