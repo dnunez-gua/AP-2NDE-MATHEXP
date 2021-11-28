@@ -60,7 +60,7 @@ Par exemple : le système maya.
 ## Numération en base 2
 
 - Deux symboles suffisent pour écrire tous les nombres : le 0 et le 1
-- le nombre $\overline{abcd}$ se décompose de la manière suivante : $a\times 2^3+b\times 2^2+c\times 2^1+d\times 2^0$
+- le nombre $abcd$ se décompose de la manière suivante : $a\times 2^3+b\times 2^2+c\times 2^1+d\times 2^0$
 
 
 ## Autres numérations
