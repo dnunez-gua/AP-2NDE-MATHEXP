@@ -45,7 +45,7 @@ Par exemple : le système maya.
 
 - La coquille vide représente le zéro. 
 - chaque symbole en 2ème position est multiplié par 20
-- chaque symbole en 3ème position est multiplié par $$20\times 20$$
+- chaque symbole en 3ème position est multiplié par $20\times 20$
 
 ![maya](./images/8EC4BDC7-9CAA-4625-B44B-7A5D33AE11E2.jpeg "numeration maya")
 
