@@ -65,5 +65,4 @@ Par exemple : le système maya.
 
 ## Autres numérations
 
-
-Video('https://ericecmorlaix.github.io/img/CalculShadok.mp4')
+[shadoks]: https://youtu.be/lP9PaDs2xgQ "numération shadoks"
