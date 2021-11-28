@@ -14,7 +14,7 @@ Ce numéro est constitué de sept caractères, répartis en trois blocs :
 
 - 1er bloc : deux lettres ;
 - 2ème bloc : trois chiffres ;
-- -3ème bloc : deux lettres.
+- 3ème bloc : deux lettres.
  
 La numérotation des véhicules se fait de manière chronologique et au ni-veau national (de AA-001-AA à ZZ-999-ZZ), les numéros se succédant de la manière suivante :
 
