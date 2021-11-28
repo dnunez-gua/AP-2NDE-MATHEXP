@@ -45,7 +45,7 @@ Par exemple : le système maya.
 
 - La coquille vide représente le zéro. 
 - chaque symbole en 2ème position est multiplié par 20
-- chaque symbole en 3ème position est multiplié par $20\timees 20$
+- chaque symbole en 3ème position est multiplié par $20\times 20$
 
 ![maya](./images/8EC4BDC7-9CAA-4625-B44B-7A5D33AE11E2.jpeg "numeration maya")
 
@@ -60,4 +60,4 @@ Par exemple : le système maya.
 ## Numération en base 2
 
 - Deux symboles suffisent pour écrire tous les nombres : le 0 et le 1
-- le nombre $$\bar{abcd}$$ se décompose de la manière suivante : 
+- le nombre $$\overight{abcd}$$ se décompose de la manière suivante : $$a\times 2^3+b\times 2^2+c\times 2^1+d\times 2^0$$
