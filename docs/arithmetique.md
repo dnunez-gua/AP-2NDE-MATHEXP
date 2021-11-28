@@ -21,10 +21,10 @@ Donnez la représentation de 1527 en numération égyptienne.
 ## La numération hybride
 Par exemple : le système de numération romain. 
 
-![romain](./images/AB44CA08-FE78-4708-B14A-E9E0C7D468BE.jpeg"numeration romaine")
+![romain](./images/AB44CA08-FE78-4708-B14A-E9E0C7D468BE.jpeg "numeration romaine")
 
 - Le nombre s'obtient par addition des quantités représentées. 
 - Certaines de ces quantités peuvent être des quantités négatives, selon leur position, il faut ajouter ou retrancher les quantités représentées par différents symboles. 
 
 
-![romain2](./images/18F07997-69E8-478D-A615-007FFE031449.jpeg"calculs romains")
+![romain2](./images/18F07997-69E8-478D-A615-007FFE031449.jpeg "calculs romains")
