@@ -52,5 +52,26 @@ Quel jour étions nous le 14 juillet 1789 ?
 
 ### Exemple 
 
+* $21 = 4 \times 5 +1$ et $25 =4\times 6 +1$ donc $21\equi 25[4]$
+* $-19\equiv -5[7]$
 
+## Conséquences
+ 
+* si r est le reste de la division euclidienne de $a$ par $n$ alors $a\equiv r [n]$
+* $a\equiv a[n]$ ; si $a\equiv b[n]$ alors $b\equiv a[n]$ ; si $a\equiv b[n]$ et $b\equiv c[n]$ alors $a\equiv c[n]$
+* propriétés :
+     * si $a\equiv b[n]$ et $c\equiv d[n]$ alors $a+c\equiv b+d[n]$ ; $a-c\equiv b-d[n]$ et $ac\equiv bd[n]$
+     * si $a\equiv b[n]$ alors pour tout entier $p$ : $a^p\equiv b^p[n]$
+     * si $a\equiv b[n]$ alors $a+c\equiv b+c[n]$ et $ac\equiv bc[n]$
 
+<b>Attention</b> : on ne peut pas simplifier les congruences : $16\equiv 20[4] n'implique pas que $8\equiv 10[4]$
+
+## Exercices
+### Exercice 1 : vrai/ faux
+- Tout entier relatif est congru modulo 5 à 1,2,3 ou 4.
+- $257\equiv 10[9]$ et $244 \equiv 205[13]$
+- On a $751=17\times 43 +20$ alors $751\equiv 20[17]$ et $751\equiv 20[43]$
+- Si $a\equiv 3[7]$ et $b\equiv 5[7]$ alors $3a+8b\equiv 0[7]$
+- Si $2a\equiv 2b[n]$ alors $a\equiv b[n]$
+- Si $a\equiv b[6]$ alors $a\equiv b[3]$
+- Si $2a\equiv 2b[2n]$ alors $a\equiv b[n]$
