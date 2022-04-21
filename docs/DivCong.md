@@ -1,7 +1,7 @@
 # Division Euclidienne
 
 On appelle Division Euclidienne la décomposition d'un nombre entier relatif telle que <br>
-$n=bq+r $ avec $ 0\leq r <q$<br>
+$$n=bq+r $$ avec $$ 0\leq r <q $$<br>
 q est le quotient de la division euclidienne et r le reste.
 
 ###Exemple ### 
