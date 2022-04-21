@@ -12,13 +12,23 @@ La division de 17 par 3 : $17 =5\times 3+2$
 ## Exercices
 
 ### Exercice 1
-Ecrire la division euclidienne de 121 par 23. 
+
+- Effectuer les divisions euclidiennes de : 
+  * 45 par 2
+  * 497 par 23
+  * 47 par 3
+  * 750 par 27
+- Ecrire la division euclidienne de 121 par 23. 
 En déduire la division euclidienne de -121 par 23
 
 ### Exercice 2 Vrai / faux
 
 Vérifier que $287=18\times 15 +17$
+
 - Dans la division de 287 par 15, le quotient est égal à 18
 - Dans la division de 287 par 18, le quotient est égal à 17
 - Dans la division de -287 par 18, le quotient est égal à -15 et le reste vaut -17
 - Dans la division de -287 par 18, le quotient est égal à -16 et le reste vaut 1
+- Si 15 est le reste de la division euclidienne de a par b alors -15 est celui de la division euclidienne de -a par b.
+
+
