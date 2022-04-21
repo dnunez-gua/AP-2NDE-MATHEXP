@@ -1,6 +1,6 @@
 # Division Euclidienne
 
-On appelle Division Euclidienne la décomposition d'un nombre entier relatif telle que $n=bq+r $ avec $ 0\leq r <q $<br>
+On appelle Division Euclidienne la décomposition d'un nombre entier relatif telle que $n=bq+r $ avec $ 0\leq r <q $
 q est le quotient de la division euclidienne et r le reste.
 
 ###Exemple
