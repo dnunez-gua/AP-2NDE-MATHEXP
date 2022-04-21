@@ -4,8 +4,8 @@
 site_name: AP Maths Expertes 2nde
 site_description: Support de l'AP 
 site_author: "Delphine NUNEZ" 
-copyright: Document partagé par <a href="https://github.com/ericECmorlaix" target="_blank">Delphine NUNEZ </a> &copy; 2021 sous licence <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr" target="_blank">CC BY-NC-SA 4.0</a>
-site_url: https://ericecmorlaix.github.io/base_mkdocs_material/ #  modifier au format https://votrePseudoGitHub.github.io/votreDepot/
+copyright: Document partagé par <a href="https://github.com/dnunez-gua" target="_blank">Delphine NUNEZ </a> &copy; 2021 sous licence <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr" target="_blank">CC BY-NC-SA 4.0</a>
+site_url: https://dnunez-gua.github.io/base_mkdocs_material/ #  modifier au format https://votrePseudoGitHub.github.io/votreDepot/
 
 # Dépot du projet 
 repo_name: 'base_mkdocs_material' 
