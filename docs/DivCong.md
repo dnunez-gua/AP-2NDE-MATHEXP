@@ -26,7 +26,7 @@ En déduire la division euclidienne de -121 par 23
 Vérifier que $287=18\times 15 +17$
 
 - Dans la division de 287 par 15, le quotient est égal à 18
-- Dans la division de 287 par 18, le quotient est égal à 17
+- Dans la division de 287 par 18, le quotient est égal à 15
 - Dans la division de -287 par 18, le quotient est égal à -15 et le reste vaut -17
 - Dans la division de -287 par 18, le quotient est égal à -16 et le reste vaut 1
 - Si 15 est le reste de la division euclidienne de a par b alors -15 est celui de la division euclidienne de -a par b.
