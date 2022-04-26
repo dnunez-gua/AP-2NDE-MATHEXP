@@ -52,7 +52,7 @@ Quel jour étions nous le 14 juillet 1789 ?
 
 ### Exemple 
 
-* $21 = 4 \times 5 +1$ et $25 =4\times 6 +1$ donc $21\equi 25[4]$
+* $21 = 4 \times 5 +1$ et $25 =4\times 6 +1$ donc $21\equiv 25[4]$
 * $-19\equiv -5[7]$
 
 ## Conséquences
