@@ -57,8 +57,8 @@ On choisit a=3 et b=5
 En vous aidant du tableau :<br>
 
 Lettre en clair | A | B |...| Z
- ---: | :---: | :--- 
-n | 0 | 1| 25 
+ ---: | :---: | :---: | : ---: | :--- 
+n | 0 | 1| ...|25 
 n' | 5 | 8 | ...|2
 Lettre codée | F | I | ...|C
 
