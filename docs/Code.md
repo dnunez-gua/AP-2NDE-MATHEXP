@@ -17,7 +17,7 @@ Le treizième chiffre est appelé clé de controle
 2. Donner des exemples de code barre ayant la même clé de contrôle. 
 3. Soit $N=3(a_2+a_4+a_6+a_8+a_{10}+a_{12})+a_1+a_3+a_5+a_7+a_9+a_{11}$
   1. On note u le chiffre des unités de N
-  2. Expliquer pourquoi u+a_{13}=10
+  2. Expliquer pourquoi $u+a_{13}=10$
 #### Detecter les erreurs
 4. Montrer que si un chiffre est erroné, l'erreur est détectée.
 5. Si deux chiffres sont intervertis, l'erreur est-elle detectée ?
@@ -25,3 +25,15 @@ Le treizième chiffre est appelé clé de controle
 #### Un chiffre effacé
 
 Peut-on trouver le chiffre manquant 325 2x37 04176 7
+
+
+## Savez-vous vérifier votre numéro INSEE
+
+Le code INSEE d'une personne est formé de 15 chiffres : 13 chiffres qui forment le numéro INSEE et un clé formée de 2 chiffres. <br>
+On note N le nombre formé par les 13 premiers chiffres et r le reste de la division euclidienne de N par 97, alors la clé de controle K est le nombre 97-r. Ce qui veut dire que N+K est divisible par 97.
+### Un exemple 
+Calculer la clé K pour N=2 84 04 92 019 081
+
+### Calculatrice HS devant de si grands nombres....
+On peut écrire $N=A\times 10^6 + B$ avec $0\leq B<10^6 $
+
