@@ -75,3 +75,16 @@ Quel jour étions nous le 14 juillet 1789 ?
 - Si $2a\equiv 2b[n]$ alors $a\equiv b[n]$
 - Si $a\equiv b[6]$ alors $a\equiv b[3]$
 - Si $2a\equiv 2b[2n]$ alors $a\equiv b[n]$
+
+### Exercice 2
+Table d'addition et de multiplication
++ | 0 | 1| 2|3
+:---|---:|:---:|---
+ 0| |  | |
+:---|---:|:---:|---
+1| |  | |
+:---|---:|:---:|---
+2| |  | |
+:---|---:|:---:|---
+3| |  | |
+:---|---:|:---:|---
