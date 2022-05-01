@@ -36,4 +36,38 @@ Calculer la clé K pour N=2 84 04 92 019 081
 
 ### Calculatrice HS devant de si grands nombres....
 On peut écrire $N=A\times 10^6 + B$ avec $0\leq B<10^6 $
+1. Determiner A et B avec l'exemple ci-dessus.
+2. Montrer que $10^6 \equiv 27[97]$ 
+3. Donner le reste de A et de B par la division euclidienne par 97 (on les note $r_1$ et $r_2$)
+4. Montrer que $N \equiv 27r_1+r_2[97]$ en déduire K. 
+
+### Détecter les erreurs 
+1. Modifier un chiffre de l'exemple et calculer K. Conclure
+2. Echanger 2 chiffres consécutifs et calculer K. Conclure 
+3. Donner un exemple d'erreur non détectable. 
+
+## Chiffrement affine
+
+Le principe du chiffrement affine est le suivant. On numérote de 0 à 25 et dans l'ordre alphabétique les 26 lettres de l'alphabet. <br>
+On se donne deux nombres a et b, et à chaque n, rang d'une lettre L, correspond le nombre n' qui est le reste de la division euclidienne de an+b par 26. <br>
+Le nombre n' est la position de la lettre L' dans l'alphabet. 
+Le couple (a,b) est la clé du chiffrement affine, cette clé est secrète, elle n'est connue que de l'expéditeur et du destinataire. 
+### Exemple 1
+On choisit a=3 et b=5
+En vous aidant du tableau :
+
+Lettre en clair | A | B |...| Z
+ ---: | :---: | :--- 
+n | 0 | 1| 25 
+n' | 5 | 8 | ...|2
+Lettre codée | F | I | ...|C
+
+1. Coder le mot Euclide 
+2. Retrouver le mot codé par XFNHH
+
+### Exemple 2
+1. Coder les mots RAGE et PEAU. 
+2. Que constate-t'on ? 
+
+
 
