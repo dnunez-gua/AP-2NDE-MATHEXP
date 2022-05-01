@@ -88,9 +88,9 @@ Calculer $7a^2+4b^2$ modulo 5. Quel est le reste de la division euclidienne de $
 ### Exercice 4
 Résoudre les équations suivantes <br>
 
--$7x\equiv 3[11]$
--$5x\equiv 3[10]$
--$5x\equiv 0[10]$
--$7x\equiv 3[10]$
--$ 5x+25\equiv 56[7]$
--$8x-23\equiv 5x-45[17]$
+- $7x\equiv 3[11]$
+- $5x\equiv 3[10]$
+- $5x\equiv 0[10]$
+- $7x\equiv 3[10]$
+- $5x+25\equiv 56[7]$
+- $8x-23\equiv 5x-45[17]$
