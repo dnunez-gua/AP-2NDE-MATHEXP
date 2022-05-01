@@ -78,13 +78,7 @@ Quel jour étions nous le 14 juillet 1789 ?
 
 ### Exercice 2
 Table d'addition et de multiplication
-+ | 0 | 1| 2| 3
-:---|---:|:---:|---:|---
- 0| |  | |
-:---|---:|:---:|---:|---
-1| |  | |
-:---|---:|:---:|---:|---
-2| |  | |
-:---|---:|:---:|---:|---
-3| |  | |
-:---|---:|:---:|---:|---
+Titre colonne 1 (droite) | Titre colonne 1 (centré) | Titre colonne 1 (gauche)
+ ---: | :---: | :--- 
+Cellule 1.1 | Cellule 1.2 | Cellule 1.3 
+Cellule 2.1 | Cellule 2.2 | Cellule 2.3 
