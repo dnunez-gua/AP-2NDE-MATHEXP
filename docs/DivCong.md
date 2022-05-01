@@ -77,8 +77,14 @@ Quel jour étions nous le 14 juillet 1789 ?
 - Si $2a\equiv 2b[2n]$ alors $a\equiv b[n]$
 
 ### Exercice 2
-Table d'addition et de multiplication
-Titre colonne 1 (droite) | Titre colonne 1 (centré) | Titre colonne 1 (gauche)
- ---: | :---: | :--- 
-Cellule 1.1 | Cellule 1.2 | Cellule 1.3 
-Cellule 2.1 | Cellule 2.2 | Cellule 2.3 
+Table d'addition et de multiplication <br>
+
+$+$ | $0$ | $1$|$2$|$3$
+ ---: | :---: | :--- ---: |---: |
+$0$ | ... | ...|...|...
+ ---: | :---: | :--- ---: |---: |
+$1$ | ... | ...|...|...
+ ---: | :---: | :--- ---: |---: |
+$2$ | ... | ...|...|...
+ ---: | :---: | :--- ---: |---: |
+$3$ | ... | ...|...|...
