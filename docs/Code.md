@@ -35,7 +35,7 @@ On note N le nombre formé par les 13 premiers chiffres et r le reste de la divi
 Calculer la clé K pour N=2 84 04 92 019 081
 
 ### Calculatrice HS devant de si grands nombres....
-On peut écrire $N=A\times 10^6 + B$ avec $0\leq B<10^6 $
+On peut écrire $N=A\times 10^6 + B$ avec $ 0 \leq B<10^6 $
 1. Determiner A et B avec l'exemple ci-dessus.
 2. Montrer que $10^6 \equiv 27[97]$ 
 3. Donner le reste de A et de B par la division euclidienne par 97 (on les note $r_1$ et $r_2$)
