@@ -78,13 +78,18 @@ Quel jour étions nous le 14 juillet 1789 ?
 
 ### Exercice 2
 Table d'addition et de multiplication <br>
+Dresser la table d'addition et la table de multiplication [4]
 
-$+$ | $0$ | $1$|$2$|$3$
- ---: | :---: | :--- ---: |---: |
-$0$ | ... | ...|...|...
- ---: | :---: | :--- ---: |---: |
-$1$ | ... | ...|...|...
- ---: | :---: | :--- ---: |---: |
-$2$ | ... | ...|...|...
- ---: | :---: | :--- ---: |---: |
-$3$ | ... | ...|...|...
+
+### Exercice 3
+On suppose que $a\equiv 3[5] $ et $b\equiv[].<br>
+Calculer $7a^2+4b^2$ modulo 5. Quel est le reste de la division euclidienne de $7a^2+4b^2$ par 5
+ 
+### Exercice 4
+Résoudre les équations suivantes <br>
+-$7x\equiv 3[11]$
+-$5x\equiv 3[10]$
+-$5x\equiv 0[10]$
+-$7x\equiv 3[10]$
+-$ 5x+25\equiv 56[7]$
+-$8x-23\equiv 5x-45[17]$
