@@ -87,6 +87,7 @@ Calculer $7a^2+4b^2$ modulo 5. Quel est le reste de la division euclidienne de $
  
 ### Exercice 4
 Résoudre les équations suivantes <br>
+
 -$7x\equiv 3[11]$
 -$5x\equiv 3[10]$
 -$5x\equiv 0[10]$
