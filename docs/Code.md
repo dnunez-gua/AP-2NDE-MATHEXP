@@ -54,7 +54,7 @@ Le nombre n' est la position de la lettre L' dans l'alphabet.
 Le couple (a,b) est la clé du chiffrement affine, cette clé est secrète, elle n'est connue que de l'expéditeur et du destinataire. 
 ### Exemple 1
 On choisit a=3 et b=5
-En vous aidant du tableau :
+En vous aidant du tableau :<br>
 
 Lettre en clair | A | B |...| Z
  ---: | :---: | :--- 
