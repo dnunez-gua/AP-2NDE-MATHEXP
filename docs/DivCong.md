@@ -64,7 +64,7 @@ Quel jour étions nous le 14 juillet 1789 ?
      * si $a\equiv b[n]$ alors pour tout entier $p$ : $a^p\equiv b^p[n]$
      * si $a\equiv b[n]$ alors $a+c\equiv b+c[n]$ et $ac\equiv bc[n]$
 
-<b>Attention</b> : on ne peut pas simplifier les congruences : $16\equiv 20[4] n'implique pas que $8\equiv 10[4]$
+<b>Attention</b> : on ne peut pas simplifier les congruences : $16\equiv 20[4]$ n'implique pas que $8\equiv 10[4]$
 
 ## Exercices
 ### Exercice 1 : vrai/ faux
