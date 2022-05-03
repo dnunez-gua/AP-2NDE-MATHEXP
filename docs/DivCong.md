@@ -82,7 +82,7 @@ Dresser la table d'addition et la table de multiplication [4]
 
 
 ### Exercice 3
-On suppose que $a\equiv 3[5] $ et $b\equiv[].<br>
+On suppose que $a\equiv 3[5]$ et $b\equiv[5]$.<br>
 Calculer $7a^2+4b^2$ modulo 5. Quel est le reste de la division euclidienne de $7a^2+4b^2$ par 5
  
 ### Exercice 4
