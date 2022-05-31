@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://dnunez-gua.github.io/base_mkdocs_material/</loc>
+         <lastmod>2022-05-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dnunez-gua.github.io/base_mkdocs_material/ChaineBases/</loc>
+         <lastmod>2022-05-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dnunez-gua.github.io/base_mkdocs_material/Code/</loc>
+         <lastmod>2022-05-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dnunez-gua.github.io/base_mkdocs_material/DivCong/</loc>
+         <lastmod>2022-05-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dnunez-gua.github.io/base_mkdocs_material/arithmetique/</loc>
+         <lastmod>2022-05-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dnunez-gua.github.io/base_mkdocs_material/exercices/</loc>
+         <lastmod>2022-05-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
